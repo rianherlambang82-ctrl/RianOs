@@ -30,6 +30,16 @@ The Live Session user is created automatically.
 
 **Password:** `live`
 
+## Download RianOS 1.0 RC
+
+### ISO
+
+[⬇️ Download RianOS-1.0-RC-amd64.iso](https://drive.google.com/uc?export=download&id=15YkaPj4-rdN_dwC3aaiUorxf_qKXSWMs)
+
+### SHA256 Checksum
+
+See [`SHA256SUMS`](SHA256SUMS) to verify the integrity of the downloaded ISO.
+
 ## Installation
 
 To install RianOS permanently:
